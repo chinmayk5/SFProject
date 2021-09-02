@@ -4,8 +4,11 @@ Hello World...
 
 Change- to check add multiple WI2.
 
-Change- diff
+Change- diff.
 
-Change- to fix the bug1
+Change- to fix the bug1.
 
-Change- for WI4 by team mate
+Change- for WI4 by team mate.
+
+Change- to fix bug2.
+
