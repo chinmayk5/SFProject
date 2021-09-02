@@ -1,0 +1,5 @@
+*.class
+*.exe
+*.jar
+/bin/
+testdata.xls
