@@ -2,13 +2,15 @@ Welcome to Git!!!
 
 Hello World...
 
-Change- to check add multiple WI2.
+Change 1- to check add multiple WI2.
 
-Change- diff.
+Change 2- diff.
 
-Change- to fix the bug1.
+Change 3- to fix the bug1.
 
-Change- for WI4 by team mate.
+Change 4- for WI4 by team mate.
 
-Change- to fix bug2.
+Change 5- to fix bug2.
+
+Change 6- made by team mate for WI5.
 
