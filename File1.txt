@@ -17,6 +17,8 @@ Change 6-> made by team mate for WI5.
 
 Change 7-> to work on CR1.
 
-Change 8-> for stash in progress or half done work
+Change 8-> For stash in progress or half done work.
+
+Change 9-> on remote master by team mate for CR2 to check fetch.
 
 
