@@ -21,4 +21,6 @@ Change 8-> For stash in progress or half done work.
 
 Change 9-> on remote master by team mate for CR2 to check fetch.
 
+Change 10-> for WI9 on local master to check fetch before push.
+
 
