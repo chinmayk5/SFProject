@@ -1,3 +1,5 @@
 Add multiple files
 
 Check simple push for WI7
+
+Check pull from remote master to local master for WI8
